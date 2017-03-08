@@ -1,0 +1,5677 @@
+fileFormatVersion: 2
+guid: 4bf7b07d950550f4ea754a691b038773
+timeCreated: 1442761232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - Bubble Bobble - Walls_0
+    21300002: Arcade - Bubble Bobble - Walls_1
+    21300004: Arcade - Bubble Bobble - Walls_2
+    21300006: Arcade - Bubble Bobble - Walls_3
+    21300008: Arcade - Bubble Bobble - Walls_4
+    21300010: Arcade - Bubble Bobble - Walls_5
+    21300012: Arcade - Bubble Bobble - Walls_6
+    21300014: Arcade - Bubble Bobble - Walls_7
+    21300016: Arcade - Bubble Bobble - Walls_8
+    21300018: Arcade - Bubble Bobble - Walls_9
+    21300020: Arcade - Bubble Bobble - Walls_10
+    21300022: Arcade - Bubble Bobble - Walls_11
+    21300024: Arcade - Bubble Bobble - Walls_12
+    21300026: Arcade - Bubble Bobble - Walls_13
+    21300028: Arcade - Bubble Bobble - Walls_14
+    21300030: Arcade - Bubble Bobble - Walls_15
+    21300032: Arcade - Bubble Bobble - Walls_16
+    21300034: Arcade - Bubble Bobble - Walls_17
+    21300036: Arcade - Bubble Bobble - Walls_18
+    21300038: Arcade - Bubble Bobble - Walls_19
+    21300040: Arcade - Bubble Bobble - Walls_20
+    21300042: Arcade - Bubble Bobble - Walls_21
+    21300044: Arcade - Bubble Bobble - Walls_22
+    21300046: Arcade - Bubble Bobble - Walls_23
+    21300048: Arcade - Bubble Bobble - Walls_24
+    21300050: Arcade - Bubble Bobble - Walls_25
+    21300052: Arcade - Bubble Bobble - Walls_26
+    21300054: Arcade - Bubble Bobble - Walls_27
+    21300056: Arcade - Bubble Bobble - Walls_28
+    21300058: Arcade - Bubble Bobble - Walls_29
+    21300060: Arcade - Bubble Bobble - Walls_30
+    21300062: Arcade - Bubble Bobble - Walls_31
+    21300064: Arcade - Bubble Bobble - Walls_32
+    21300066: Arcade - Bubble Bobble - Walls_33
+    21300068: Arcade - Bubble Bobble - Walls_34
+    21300070: Arcade - Bubble Bobble - Walls_35
+    21300072: Arcade - Bubble Bobble - Walls_36
+    21300074: Arcade - Bubble Bobble - Walls_37
+    21300076: Arcade - Bubble Bobble - Walls_38
+    21300078: Arcade - Bubble Bobble - Walls_39
+    21300080: Arcade - Bubble Bobble - Walls_40
+    21300082: Arcade - Bubble Bobble - Walls_41
+    21300084: Arcade - Bubble Bobble - Walls_42
+    21300086: Arcade - Bubble Bobble - Walls_43
+    21300088: Arcade - Bubble Bobble - Walls_44
+    21300090: Arcade - Bubble Bobble - Walls_45
+    21300092: Arcade - Bubble Bobble - Walls_46
+    21300094: Arcade - Bubble Bobble - Walls_47
+    21300096: Arcade - Bubble Bobble - Walls_48
+    21300098: Arcade - Bubble Bobble - Walls_49
+    21300100: Arcade - Bubble Bobble - Walls_50
+    21300102: Arcade - Bubble Bobble - Walls_51
+    21300104: Arcade - Bubble Bobble - Walls_52
+    21300106: Arcade - Bubble Bobble - Walls_53
+    21300108: Arcade - Bubble Bobble - Walls_54
+    21300110: Arcade - Bubble Bobble - Walls_55
+    21300112: Arcade - Bubble Bobble - Walls_56
+    21300114: Arcade - Bubble Bobble - Walls_57
+    21300116: Arcade - Bubble Bobble - Walls_58
+    21300118: Arcade - Bubble Bobble - Walls_59
+    21300120: Arcade - Bubble Bobble - Walls_60
+    21300122: Arcade - Bubble Bobble - Walls_61
+    21300124: Arcade - Bubble Bobble - Walls_62
+    21300126: Arcade - Bubble Bobble - Walls_63
+    21300128: Arcade - Bubble Bobble - Walls_64
+    21300130: Arcade - Bubble Bobble - Walls_65
+    21300132: Arcade - Bubble Bobble - Walls_66
+    21300134: Arcade - Bubble Bobble - Walls_67
+    21300136: Arcade - Bubble Bobble - Walls_68
+    21300138: Arcade - Bubble Bobble - Walls_69
+    21300140: Arcade - Bubble Bobble - Walls_70
+    21300142: Arcade - Bubble Bobble - Walls_71
+    21300144: Arcade - Bubble Bobble - Walls_72
+    21300146: Arcade - Bubble Bobble - Walls_73
+    21300148: Arcade - Bubble Bobble - Walls_74
+    21300150: Arcade - Bubble Bobble - Walls_75
+    21300152: Arcade - Bubble Bobble - Walls_76
+    21300154: Arcade - Bubble Bobble - Walls_77
+    21300156: Arcade - Bubble Bobble - Walls_78
+    21300158: Arcade - Bubble Bobble - Walls_79
+    21300160: Arcade - Bubble Bobble - Walls_80
+    21300162: Arcade - Bubble Bobble - Walls_81
+    21300164: Arcade - Bubble Bobble - Walls_82
+    21300166: Arcade - Bubble Bobble - Walls_83
+    21300168: Arcade - Bubble Bobble - Walls_84
+    21300170: Arcade - Bubble Bobble - Walls_85
+    21300172: Arcade - Bubble Bobble - Walls_86
+    21300174: Arcade - Bubble Bobble - Walls_87
+    21300176: Arcade - Bubble Bobble - Walls_88
+    21300178: Arcade - Bubble Bobble - Walls_89
+    21300180: Arcade - Bubble Bobble - Walls_90
+    21300182: Arcade - Bubble Bobble - Walls_91
+    21300184: Arcade - Bubble Bobble - Walls_92
+    21300186: Arcade - Bubble Bobble - Walls_93
+    21300188: Arcade - Bubble Bobble - Walls_94
+    21300190: Arcade - Bubble Bobble - Walls_95
+    21300192: Arcade - Bubble Bobble - Walls_96
+    21300194: Arcade - Bubble Bobble - Walls_97
+    21300196: Arcade - Bubble Bobble - Walls_98
+    21300198: Arcade - Bubble Bobble - Walls_99
+    21300200: Arcade - Bubble Bobble - Walls_100
+    21300202: Arcade - Bubble Bobble - Walls_101
+    21300204: Arcade - Bubble Bobble - Walls_102
+    21300206: Arcade - Bubble Bobble - Walls_103
+    21300208: Arcade - Bubble Bobble - Walls_104
+    21300210: Arcade - Bubble Bobble - Walls_105
+    21300212: Arcade - Bubble Bobble - Walls_106
+    21300214: Arcade - Bubble Bobble - Walls_107
+    21300216: Arcade - Bubble Bobble - Walls_108
+    21300218: Arcade - Bubble Bobble - Walls_109
+    21300220: Arcade - Bubble Bobble - Walls_110
+    21300222: Arcade - Bubble Bobble - Walls_111
+    21300224: Arcade - Bubble Bobble - Walls_112
+    21300226: Arcade - Bubble Bobble - Walls_113
+    21300228: Arcade - Bubble Bobble - Walls_114
+    21300230: Arcade - Bubble Bobble - Walls_115
+    21300232: Arcade - Bubble Bobble - Walls_116
+    21300234: Arcade - Bubble Bobble - Walls_117
+    21300236: Arcade - Bubble Bobble - Walls_118
+    21300238: Arcade - Bubble Bobble - Walls_119
+    21300240: Arcade - Bubble Bobble - Walls_120
+    21300242: Arcade - Bubble Bobble - Walls_121
+    21300244: Arcade - Bubble Bobble - Walls_122
+    21300246: Arcade - Bubble Bobble - Walls_123
+    21300248: Arcade - Bubble Bobble - Walls_124
+    21300250: Arcade - Bubble Bobble - Walls_125
+    21300252: Arcade - Bubble Bobble - Walls_126
+    21300254: Arcade - Bubble Bobble - Walls_127
+    21300256: Arcade - Bubble Bobble - Walls_128
+    21300258: Arcade - Bubble Bobble - Walls_129
+    21300260: Arcade - Bubble Bobble - Walls_130
+    21300262: Arcade - Bubble Bobble - Walls_131
+    21300264: Arcade - Bubble Bobble - Walls_132
+    21300266: Arcade - Bubble Bobble - Walls_133
+    21300268: Arcade - Bubble Bobble - Walls_134
+    21300270: Arcade - Bubble Bobble - Walls_135
+    21300272: Arcade - Bubble Bobble - Walls_136
+    21300274: Arcade - Bubble Bobble - Walls_137
+    21300276: Arcade - Bubble Bobble - Walls_138
+    21300278: Arcade - Bubble Bobble - Walls_139
+    21300280: Arcade - Bubble Bobble - Walls_140
+    21300282: Arcade - Bubble Bobble - Walls_141
+    21300284: Arcade - Bubble Bobble - Walls_142
+    21300286: Arcade - Bubble Bobble - Walls_143
+    21300288: Arcade - Bubble Bobble - Walls_144
+    21300290: Arcade - Bubble Bobble - Walls_145
+    21300292: Arcade - Bubble Bobble - Walls_146
+    21300294: Arcade - Bubble Bobble - Walls_147
+    21300296: Arcade - Bubble Bobble - Walls_148
+    21300298: Arcade - Bubble Bobble - Walls_149
+    21300300: Arcade - Bubble Bobble - Walls_150
+    21300302: Arcade - Bubble Bobble - Walls_151
+    21300304: Arcade - Bubble Bobble - Walls_152
+    21300306: Arcade - Bubble Bobble - Walls_153
+    21300308: Arcade - Bubble Bobble - Walls_154
+    21300310: Arcade - Bubble Bobble - Walls_155
+    21300312: Arcade - Bubble Bobble - Walls_156
+    21300314: Arcade - Bubble Bobble - Walls_157
+    21300316: Arcade - Bubble Bobble - Walls_158
+    21300318: Arcade - Bubble Bobble - Walls_159
+    21300320: Arcade - Bubble Bobble - Walls_160
+    21300322: Arcade - Bubble Bobble - Walls_161
+    21300324: Arcade - Bubble Bobble - Walls_162
+    21300326: Arcade - Bubble Bobble - Walls_163
+    21300328: Arcade - Bubble Bobble - Walls_164
+    21300330: Arcade - Bubble Bobble - Walls_165
+    21300332: Arcade - Bubble Bobble - Walls_166
+    21300334: Arcade - Bubble Bobble - Walls_167
+    21300336: Arcade - Bubble Bobble - Walls_168
+    21300338: Arcade - Bubble Bobble - Walls_169
+    21300340: Arcade - Bubble Bobble - Walls_170
+    21300342: Arcade - Bubble Bobble - Walls_171
+    21300344: Arcade - Bubble Bobble - Walls_172
+    21300346: Arcade - Bubble Bobble - Walls_173
+    21300348: Arcade - Bubble Bobble - Walls_174
+    21300350: Arcade - Bubble Bobble - Walls_175
+    21300352: Arcade - Bubble Bobble - Walls_176
+    21300354: Arcade - Bubble Bobble - Walls_177
+    21300356: Arcade - Bubble Bobble - Walls_178
+    21300358: Arcade - Bubble Bobble - Walls_179
+    21300360: Arcade - Bubble Bobble - Walls_180
+    21300362: Arcade - Bubble Bobble - Walls_181
+    21300364: Arcade - Bubble Bobble - Walls_182
+    21300366: Arcade - Bubble Bobble - Walls_183
+    21300368: Arcade - Bubble Bobble - Walls_184
+    21300370: Arcade - Bubble Bobble - Walls_185
+    21300372: Arcade - Bubble Bobble - Walls_186
+    21300374: Arcade - Bubble Bobble - Walls_187
+    21300376: Arcade - Bubble Bobble - Walls_188
+    21300378: Arcade - Bubble Bobble - Walls_189
+    21300380: Arcade - Bubble Bobble - Walls_190
+    21300382: Arcade - Bubble Bobble - Walls_191
+    21300384: Arcade - Bubble Bobble - Walls_192
+    21300386: Arcade - Bubble Bobble - Walls_193
+    21300388: Arcade - Bubble Bobble - Walls_194
+    21300390: Arcade - Bubble Bobble - Walls_195
+    21300392: Arcade - Bubble Bobble - Walls_196
+    21300394: Arcade - Bubble Bobble - Walls_197
+    21300396: Arcade - Bubble Bobble - Walls_198
+    21300398: Arcade - Bubble Bobble - Walls_199
+    21300400: Arcade - Bubble Bobble - Walls_200
+    21300402: Arcade - Bubble Bobble - Walls_201
+    21300404: Arcade - Bubble Bobble - Walls_202
+    21300406: Arcade - Bubble Bobble - Walls_203
+    21300408: Arcade - Bubble Bobble - Walls_204
+    21300410: Arcade - Bubble Bobble - Walls_205
+    21300412: Arcade - Bubble Bobble - Walls_206
+    21300414: Arcade - Bubble Bobble - Walls_207
+    21300416: Arcade - Bubble Bobble - Walls_208
+    21300418: Arcade - Bubble Bobble - Walls_209
+    21300420: Arcade - Bubble Bobble - Walls_210
+    21300422: Arcade - Bubble Bobble - Walls_211
+    21300424: Arcade - Bubble Bobble - Walls_212
+    21300426: Arcade - Bubble Bobble - Walls_213
+    21300428: Arcade - Bubble Bobble - Walls_214
+    21300430: Arcade - Bubble Bobble - Walls_215
+    21300432: Arcade - Bubble Bobble - Walls_216
+    21300434: Arcade - Bubble Bobble - Walls_217
+    21300436: Arcade - Bubble Bobble - Walls_218
+    21300438: Arcade - Bubble Bobble - Walls_219
+    21300440: Arcade - Bubble Bobble - Walls_220
+    21300442: Arcade - Bubble Bobble - Walls_221
+    21300444: Arcade - Bubble Bobble - Walls_222
+    21300446: Arcade - Bubble Bobble - Walls_223
+    21300448: Arcade - Bubble Bobble - Walls_224
+    21300450: Arcade - Bubble Bobble - Walls_225
+    21300452: Arcade - Bubble Bobble - Walls_226
+    21300454: Arcade - Bubble Bobble - Walls_227
+    21300456: Arcade - Bubble Bobble - Walls_228
+    21300458: Arcade - Bubble Bobble - Walls_229
+    21300460: Arcade - Bubble Bobble - Walls_230
+    21300462: Arcade - Bubble Bobble - Walls_231
+    21300464: Arcade - Bubble Bobble - Walls_232
+    21300466: Arcade - Bubble Bobble - Walls_233
+    21300468: Arcade - Bubble Bobble - Walls_234
+    21300470: Arcade - Bubble Bobble - Walls_235
+    21300472: Arcade - Bubble Bobble - Walls_236
+    21300474: Arcade - Bubble Bobble - Walls_237
+    21300476: Arcade - Bubble Bobble - Walls_238
+    21300478: Arcade - Bubble Bobble - Walls_239
+    21300480: Arcade - Bubble Bobble - Walls_240
+    21300482: Arcade - Bubble Bobble - Walls_241
+    21300484: Arcade - Bubble Bobble - Walls_242
+    21300486: Arcade - Bubble Bobble - Walls_243
+    21300488: Arcade - Bubble Bobble - Walls_244
+    21300490: Arcade - Bubble Bobble - Walls_245
+    21300492: Arcade - Bubble Bobble - Walls_246
+    21300494: Arcade - Bubble Bobble - Walls_247
+    21300496: Arcade - Bubble Bobble - Walls_248
+    21300498: Arcade - Bubble Bobble - Walls_249
+    21300500: Arcade - Bubble Bobble - Walls_250
+    21300502: Arcade - Bubble Bobble - Walls_251
+    21300504: Arcade - Bubble Bobble - Walls_252
+    21300506: Arcade - Bubble Bobble - Walls_253
+    21300508: Arcade - Bubble Bobble - Walls_254
+    21300510: Arcade - Bubble Bobble - Walls_255
+    21300512: Arcade - Bubble Bobble - Walls_256
+    21300514: Arcade - Bubble Bobble - Walls_257
+    21300516: Arcade - Bubble Bobble - Walls_258
+    21300518: Arcade - Bubble Bobble - Walls_259
+    21300520: Arcade - Bubble Bobble - Walls_260
+    21300522: Arcade - Bubble Bobble - Walls_261
+    21300524: Arcade - Bubble Bobble - Walls_262
+    21300526: Arcade - Bubble Bobble - Walls_263
+    21300528: Arcade - Bubble Bobble - Walls_264
+    21300530: Arcade - Bubble Bobble - Walls_265
+    21300532: Arcade - Bubble Bobble - Walls_266
+    21300534: Arcade - Bubble Bobble - Walls_267
+    21300536: Arcade - Bubble Bobble - Walls_268
+    21300538: Arcade - Bubble Bobble - Walls_269
+    21300540: Arcade - Bubble Bobble - Walls_270
+    21300542: Arcade - Bubble Bobble - Walls_271
+    21300544: Arcade - Bubble Bobble - Walls_272
+    21300546: Arcade - Bubble Bobble - Walls_273
+    21300548: Arcade - Bubble Bobble - Walls_274
+    21300550: Arcade - Bubble Bobble - Walls_275
+    21300552: Arcade - Bubble Bobble - Walls_276
+    21300554: Arcade - Bubble Bobble - Walls_277
+    21300556: Arcade - Bubble Bobble - Walls_278
+    21300558: Arcade - Bubble Bobble - Walls_279
+    21300560: Arcade - Bubble Bobble - Walls_280
+    21300562: Arcade - Bubble Bobble - Walls_281
+    21300564: Arcade - Bubble Bobble - Walls_282
+    21300566: Arcade - Bubble Bobble - Walls_283
+    21300568: Arcade - Bubble Bobble - Walls_284
+    21300570: Arcade - Bubble Bobble - Walls_285
+    21300572: Arcade - Bubble Bobble - Walls_286
+    21300574: Arcade - Bubble Bobble - Walls_287
+    21300576: Arcade - Bubble Bobble - Walls_288
+    21300578: Arcade - Bubble Bobble - Walls_289
+    21300580: Arcade - Bubble Bobble - Walls_290
+    21300582: Arcade - Bubble Bobble - Walls_291
+    21300584: Arcade - Bubble Bobble - Walls_292
+    21300586: Arcade - Bubble Bobble - Walls_293
+    21300588: Arcade - Bubble Bobble - Walls_294
+    21300590: Arcade - Bubble Bobble - Walls_295
+    21300592: Arcade - Bubble Bobble - Walls_296
+    21300594: Arcade - Bubble Bobble - Walls_297
+    21300596: Arcade - Bubble Bobble - Walls_298
+    21300598: Arcade - Bubble Bobble - Walls_299
+    21300600: Arcade - Bubble Bobble - Walls_300
+    21300602: Arcade - Bubble Bobble - Walls_301
+    21300604: Arcade - Bubble Bobble - Walls_302
+    21300606: Arcade - Bubble Bobble - Walls_303
+    21300608: Arcade - Bubble Bobble - Walls_304
+    21300610: Arcade - Bubble Bobble - Walls_305
+    21300612: Arcade - Bubble Bobble - Walls_306
+    21300614: Arcade - Bubble Bobble - Walls_307
+    21300616: Arcade - Bubble Bobble - Walls_308
+    21300618: Arcade - Bubble Bobble - Walls_309
+    21300620: Arcade - Bubble Bobble - Walls_310
+    21300622: Arcade - Bubble Bobble - Walls_311
+    21300624: Arcade - Bubble Bobble - Walls_312
+    21300626: Arcade - Bubble Bobble - Walls_313
+    21300628: Arcade - Bubble Bobble - Walls_314
+    21300630: Arcade - Bubble Bobble - Walls_315
+    21300632: Arcade - Bubble Bobble - Walls_316
+    21300634: Arcade - Bubble Bobble - Walls_317
+    21300636: Arcade - Bubble Bobble - Walls_318
+    21300638: Arcade - Bubble Bobble - Walls_319
+    21300640: Arcade - Bubble Bobble - Walls_320
+    21300642: Arcade - Bubble Bobble - Walls_321
+    21300644: Arcade - Bubble Bobble - Walls_322
+    21300646: Arcade - Bubble Bobble - Walls_323
+    21300648: Arcade - Bubble Bobble - Walls_324
+    21300650: Arcade - Bubble Bobble - Walls_325
+    21300652: Arcade - Bubble Bobble - Walls_326
+    21300654: Arcade - Bubble Bobble - Walls_327
+    21300656: Arcade - Bubble Bobble - Walls_328
+    21300658: Arcade - Bubble Bobble - Walls_329
+    21300660: Arcade - Bubble Bobble - Walls_330
+    21300662: Arcade - Bubble Bobble - Walls_331
+    21300664: Arcade - Bubble Bobble - Walls_332
+    21300666: Arcade - Bubble Bobble - Walls_333
+    21300668: Arcade - Bubble Bobble - Walls_334
+    21300670: Arcade - Bubble Bobble - Walls_335
+    21300672: Arcade - Bubble Bobble - Walls_336
+    21300674: Arcade - Bubble Bobble - Walls_337
+    21300676: Arcade - Bubble Bobble - Walls_338
+    21300678: Arcade - Bubble Bobble - Walls_339
+    21300680: Arcade - Bubble Bobble - Walls_340
+    21300682: Arcade - Bubble Bobble - Walls_341
+    21300684: Arcade - Bubble Bobble - Walls_342
+    21300686: Arcade - Bubble Bobble - Walls_343
+    21300688: Arcade - Bubble Bobble - Walls_344
+    21300690: Arcade - Bubble Bobble - Walls_345
+    21300692: Arcade - Bubble Bobble - Walls_346
+    21300694: Arcade - Bubble Bobble - Walls_347
+    21300696: Arcade - Bubble Bobble - Walls_348
+    21300698: Arcade - Bubble Bobble - Walls_349
+    21300700: Arcade - Bubble Bobble - Walls_350
+    21300702: Arcade - Bubble Bobble - Walls_351
+    21300704: Arcade - Bubble Bobble - Walls_352
+    21300706: Arcade - Bubble Bobble - Walls_353
+    21300708: Arcade - Bubble Bobble - Walls_354
+    21300710: Arcade - Bubble Bobble - Walls_355
+    21300712: Arcade - Bubble Bobble - Walls_356
+    21300714: Arcade - Bubble Bobble - Walls_357
+    21300716: Arcade - Bubble Bobble - Walls_358
+    21300718: Arcade - Bubble Bobble - Walls_359
+    21300720: Arcade - Bubble Bobble - Walls_360
+    21300722: Arcade - Bubble Bobble - Walls_361
+    21300724: Arcade - Bubble Bobble - Walls_362
+    21300726: Arcade - Bubble Bobble - Walls_363
+    21300728: Arcade - Bubble Bobble - Walls_364
+    21300730: Arcade - Bubble Bobble - Walls_365
+    21300732: Arcade - Bubble Bobble - Walls_366
+    21300734: Arcade - Bubble Bobble - Walls_367
+    21300736: Arcade - Bubble Bobble - Walls_368
+    21300738: Arcade - Bubble Bobble - Walls_369
+    21300740: Arcade - Bubble Bobble - Walls_370
+    21300742: Arcade - Bubble Bobble - Walls_371
+    21300744: Arcade - Bubble Bobble - Walls_372
+    21300746: Arcade - Bubble Bobble - Walls_373
+    21300748: Arcade - Bubble Bobble - Walls_374
+    21300750: Arcade - Bubble Bobble - Walls_375
+    21300752: Arcade - Bubble Bobble - Walls_376
+    21300754: Arcade - Bubble Bobble - Walls_377
+    21300756: Arcade - Bubble Bobble - Walls_378
+    21300758: Arcade - Bubble Bobble - Walls_379
+    21300760: Arcade - Bubble Bobble - Walls_380
+    21300762: Arcade - Bubble Bobble - Walls_381
+    21300764: Arcade - Bubble Bobble - Walls_382
+    21300766: Arcade - Bubble Bobble - Walls_383
+    21300768: Arcade - Bubble Bobble - Walls_384
+    21300770: Arcade - Bubble Bobble - Walls_385
+    21300772: Arcade - Bubble Bobble - Walls_386
+    21300774: Arcade - Bubble Bobble - Walls_387
+    21300776: Arcade - Bubble Bobble - Walls_388
+    21300778: Arcade - Bubble Bobble - Walls_389
+    21300780: Arcade - Bubble Bobble - Walls_390
+    21300782: Arcade - Bubble Bobble - Walls_391
+    21300784: Arcade - Bubble Bobble - Walls_392
+    21300786: Arcade - Bubble Bobble - Walls_393
+    21300788: Arcade - Bubble Bobble - Walls_394
+    21300790: Arcade - Bubble Bobble - Walls_395
+    21300792: Arcade - Bubble Bobble - Walls_396
+    21300794: Arcade - Bubble Bobble - Walls_397
+    21300796: Arcade - Bubble Bobble - Walls_398
+    21300798: Arcade - Bubble Bobble - Walls_399
+    21300800: Arcade - Bubble Bobble - Walls_400
+    21300802: Arcade - Bubble Bobble - Walls_401
+    21300804: Arcade - Bubble Bobble - Walls_402
+    21300806: Arcade - Bubble Bobble - Walls_403
+    21300808: Arcade - Bubble Bobble - Walls_404
+    21300810: Arcade - Bubble Bobble - Walls_405
+    21300812: Arcade - Bubble Bobble - Walls_406
+    21300814: Arcade - Bubble Bobble - Walls_407
+    21300816: Arcade - Bubble Bobble - Walls_408
+    21300818: Arcade - Bubble Bobble - Walls_409
+    21300820: Arcade - Bubble Bobble - Walls_410
+    21300822: Arcade - Bubble Bobble - Walls_411
+    21300824: Arcade - Bubble Bobble - Walls_412
+    21300826: Arcade - Bubble Bobble - Walls_413
+    21300828: Arcade - Bubble Bobble - Walls_414
+    21300830: Arcade - Bubble Bobble - Walls_415
+    21300832: Arcade - Bubble Bobble - Walls_416
+    21300834: Arcade - Bubble Bobble - Walls_417
+    21300836: Arcade - Bubble Bobble - Walls_418
+    21300838: Arcade - Bubble Bobble - Walls_419
+    21300840: Arcade - Bubble Bobble - Walls_420
+    21300842: Arcade - Bubble Bobble - Walls_421
+    21300844: Arcade - Bubble Bobble - Walls_422
+    21300846: Arcade - Bubble Bobble - Walls_423
+    21300848: Arcade - Bubble Bobble - Walls_424
+    21300850: Arcade - Bubble Bobble - Walls_425
+    21300852: Arcade - Bubble Bobble - Walls_426
+    21300854: Arcade - Bubble Bobble - Walls_427
+    21300856: Arcade - Bubble Bobble - Walls_428
+    21300858: Arcade - Bubble Bobble - Walls_429
+    21300860: Arcade - Bubble Bobble - Walls_430
+    21300862: Arcade - Bubble Bobble - Walls_431
+    21300864: Arcade - Bubble Bobble - Walls_432
+    21300866: Arcade - Bubble Bobble - Walls_433
+    21300868: Arcade - Bubble Bobble - Walls_434
+    21300870: Arcade - Bubble Bobble - Walls_435
+    21300872: Arcade - Bubble Bobble - Walls_436
+    21300874: Arcade - Bubble Bobble - Walls_437
+    21300876: Arcade - Bubble Bobble - Walls_438
+    21300878: Arcade - Bubble Bobble - Walls_439
+    21300880: Arcade - Bubble Bobble - Walls_440
+    21300882: Arcade - Bubble Bobble - Walls_441
+    21300884: Arcade - Bubble Bobble - Walls_442
+    21300886: Arcade - Bubble Bobble - Walls_443
+    21300888: Arcade - Bubble Bobble - Walls_444
+    21300890: Arcade - Bubble Bobble - Walls_445
+    21300892: Arcade - Bubble Bobble - Walls_446
+    21300894: Arcade - Bubble Bobble - Walls_447
+    21300896: Arcade - Bubble Bobble - Walls_448
+    21300898: Arcade - Bubble Bobble - Walls_449
+    21300900: Arcade - Bubble Bobble - Walls_450
+    21300902: Arcade - Bubble Bobble - Walls_451
+    21300904: Arcade - Bubble Bobble - Walls_452
+    21300906: Arcade - Bubble Bobble - Walls_453
+    21300908: Arcade - Bubble Bobble - Walls_454
+    21300910: Arcade - Bubble Bobble - Walls_455
+    21300912: Arcade - Bubble Bobble - Walls_456
+    21300914: Arcade - Bubble Bobble - Walls_457
+    21300916: Arcade - Bubble Bobble - Walls_458
+    21300918: Arcade - Bubble Bobble - Walls_459
+    21300920: Arcade - Bubble Bobble - Walls_460
+    21300922: Arcade - Bubble Bobble - Walls_461
+    21300924: Arcade - Bubble Bobble - Walls_462
+    21300926: Arcade - Bubble Bobble - Walls_463
+    21300928: Arcade - Bubble Bobble - Walls_464
+    21300930: Arcade - Bubble Bobble - Walls_465
+    21300932: Arcade - Bubble Bobble - Walls_466
+    21300934: Arcade - Bubble Bobble - Walls_467
+    21300936: Arcade - Bubble Bobble - Walls_468
+    21300938: Arcade - Bubble Bobble - Walls_469
+    21300940: Arcade - Bubble Bobble - Walls_470
+    21300942: Arcade - Bubble Bobble - Walls_471
+    21300944: Arcade - Bubble Bobble - Walls_472
+    21300946: Arcade - Bubble Bobble - Walls_473
+    21300948: Arcade - Bubble Bobble - Walls_474
+    21300950: Arcade - Bubble Bobble - Walls_475
+    21300952: Arcade - Bubble Bobble - Walls_476
+    21300954: Arcade - Bubble Bobble - Walls_477
+    21300956: Arcade - Bubble Bobble - Walls_478
+    21300958: Arcade - Bubble Bobble - Walls_479
+    21300960: Arcade - Bubble Bobble - Walls_480
+    21300962: Arcade - Bubble Bobble - Walls_481
+    21300964: Arcade - Bubble Bobble - Walls_482
+    21300966: Arcade - Bubble Bobble - Walls_483
+    21300968: Arcade - Bubble Bobble - Walls_484
+    21300970: Arcade - Bubble Bobble - Walls_485
+    21300972: Arcade - Bubble Bobble - Walls_486
+    21300974: Arcade - Bubble Bobble - Walls_487
+    21300976: Arcade - Bubble Bobble - Walls_488
+    21300978: Arcade - Bubble Bobble - Walls_489
+    21300980: Arcade - Bubble Bobble - Walls_490
+    21300982: Arcade - Bubble Bobble - Walls_491
+    21300984: Arcade - Bubble Bobble - Walls_492
+    21300986: Arcade - Bubble Bobble - Walls_493
+    21300988: Arcade - Bubble Bobble - Walls_494
+    21300990: Arcade - Bubble Bobble - Walls_495
+    21300992: Arcade - Bubble Bobble - Walls_496
+    21300994: Arcade - Bubble Bobble - Walls_497
+    21300996: Arcade - Bubble Bobble - Walls_498
+    21300998: Arcade - Bubble Bobble - Walls_499
+    21301000: Arcade - Bubble Bobble - Walls_500
+    21301002: Arcade - Bubble Bobble - Walls_501
+    21301004: Arcade - Bubble Bobble - Walls_502
+    21301006: Arcade - Bubble Bobble - Walls_503
+    21301008: Arcade - Bubble Bobble - Walls_504
+    21301010: Arcade - Bubble Bobble - Walls_505
+    21301012: Arcade - Bubble Bobble - Walls_506
+    21301014: Arcade - Bubble Bobble - Walls_507
+    21301016: Arcade - Bubble Bobble - Walls_508
+    21301018: Arcade - Bubble Bobble - Walls_509
+    21301020: Arcade - Bubble Bobble - Walls_510
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Arcade - Bubble Bobble - Walls_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 505
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 505
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 505
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 505
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 486
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 486
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 486
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 486
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 465
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_45
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 465
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 465
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_55
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 465
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 458
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_64
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 444
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_71
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 444
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_72
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_74
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_76
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 444
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_79
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_80
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_81
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 423
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_82
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_83
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 423
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_90
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_91
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 423
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_93
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_94
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_96
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 423
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_97
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_98
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_100
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 417
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_101
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 403
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_104
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 403
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_107
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_108
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_111
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 403
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_113
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_115
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_116
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 403
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_117
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_118
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_119
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_120
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 383
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_122
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_123
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_124
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_125
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_126
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 383
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_128
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_129
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_130
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_131
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 383
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_132
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_133
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_134
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_135
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_136
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 383
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_137
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_138
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 385
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_139
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_140
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_141
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 363
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_142
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_143
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_144
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_145
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_146
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 363
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_147
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_148
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_149
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_150
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_151
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 363
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_152
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_153
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_154
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_155
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_156
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 363
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_157
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_158
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_159
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_160
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_161
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 342
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_162
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_163
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_164
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_165
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_166
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 342
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_167
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_168
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_169
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_170
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_171
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 342
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_172
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_173
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_174
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_175
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_176
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 342
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_177
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_178
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_179
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_180
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_181
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 321
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_182
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_183
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_184
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_185
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_186
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_187
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 321
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_188
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_189
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_190
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_191
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_192
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 321
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_193
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_194
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_195
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_196
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_197
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 321
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_198
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_199
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_200
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_201
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_202
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_203
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 300
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_204
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_205
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_206
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_207
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_208
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 300
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_209
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_210
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_211
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_212
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_213
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 300
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_214
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_215
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_216
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_217
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_218
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 300
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_219
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_220
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 302
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_221
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_222
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_223
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_224
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 280
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_225
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_226
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_227
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_228
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_229
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 280
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_230
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_231
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_232
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_233
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_234
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 280
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_235
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_236
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_237
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_238
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_239
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 280
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_240
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_241
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 282
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_242
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_243
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_244
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_245
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 260
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_246
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_247
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_248
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_249
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_250
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 260
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_251
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_252
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_253
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_254
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_255
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 260
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_256
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_257
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_258
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_259
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_260
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 260
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_261
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_262
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_263
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_264
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_265
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_266
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 239
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_267
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_268
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_269
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_270
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_271
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 239
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_272
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_273
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_274
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_275
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_276
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 239
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_277
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_278
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_279
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_280
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_281
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 239
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_282
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_283
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_284
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_285
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_286
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 219
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_287
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 219
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_288
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_289
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_290
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_291
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_292
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 219
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_293
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_294
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_295
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_296
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_297
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 219
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_298
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_299
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_300
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_301
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_302
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 219
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_303
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_304
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_305
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_306
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_307
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_308
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 199
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_309
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_310
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_311
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_312
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_313
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_314
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_315
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_316
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_317
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_318
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 199
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_319
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_320
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_321
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_322
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_323
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 199
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_324
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_325
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_326
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_327
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_328
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_329
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 179
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_330
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_331
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_332
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_333
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_334
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 179
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_335
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_336
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_337
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_338
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_339
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 179
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_340
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_341
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_342
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_343
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_344
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 179
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_345
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_346
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_347
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_348
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_349
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 159
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_350
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_351
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_352
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_353
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_354
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_355
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_356
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_357
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_358
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_359
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_360
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_361
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_362
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_363
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_364
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_365
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_366
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_367
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_368
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_369
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_370
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 139
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_371
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 139
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_372
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_373
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_374
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_375
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_376
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 139
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_377
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_378
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_379
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_380
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_381
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 139
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_382
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_383
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_384
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_385
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_386
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 139
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_387
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_388
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_389
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_390
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_391
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_392
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_393
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_394
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_395
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_396
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 118
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_397
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_398
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_399
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_400
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_401
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 118
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_402
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_403
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_404
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_405
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_406
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 118
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_407
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_408
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_409
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_410
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_411
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 97
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_412
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_413
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_414
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_415
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_416
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_417
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_418
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_419
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_420
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_421
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 97
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_422
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_423
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_424
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_425
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_426
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_427
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_428
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_429
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_430
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_431
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_432
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_433
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_434
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_435
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_436
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_437
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_438
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_439
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_440
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_441
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_442
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_443
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_444
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_445
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_446
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_447
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_448
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_449
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_450
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_451
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 56
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_452
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_453
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_454
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_455
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_456
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_457
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_458
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_459
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_460
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_461
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 56
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_462
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_463
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_464
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_465
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_466
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 56
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_467
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_468
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_469
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_470
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_471
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_472
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_473
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_474
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_475
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_476
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_477
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_478
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_479
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_480
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_481
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_482
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_483
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_484
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_485
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_486
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_487
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_488
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_489
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_490
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 29
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_491
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_492
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_493
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_494
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_495
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_496
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_497
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_498
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_499
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_500
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_501
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_502
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_503
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_504
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_505
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_506
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_507
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_508
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_509
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Bubble Bobble - Walls_510
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
