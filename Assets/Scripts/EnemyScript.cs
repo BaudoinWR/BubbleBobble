@@ -18,10 +18,15 @@ public class EnemyScript : MonoBehaviour {
         }
     }
 
-    // Update is called once per frame
-    void Update () {
-	
-	}
+    public void FixedUpdate () {
+        Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
+        if (GetComponent<Rigidbody2D>().velocity.y < -2)
+        {
+            velocity.y = -2;
+            GetComponent<Rigidbody2D>().velocity = velocity;
+        }
+
+    }
 
     void OnCollisionEnter2D(Collision2D collision)
     {

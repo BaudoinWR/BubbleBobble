@@ -35,6 +35,13 @@ public class PlayerScript : MonoBehaviour {
 
     void FixedUpdate()
     {
+        Vector2 velocity = rb.velocity;
+        if (velocity.y < -2)
+        {
+            velocity.y = -2;
+            rb.velocity = velocity;
+        }
+
         animator.SetBool("shooting", false);
         animator.SetBool("inair", false);
         

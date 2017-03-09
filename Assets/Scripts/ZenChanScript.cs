@@ -15,8 +15,9 @@ public class ZenChanScript : EnemyScript {
 	
 	}
 
-    void FixedUpdate()
+    new void FixedUpdate()
     {
+        base.FixedUpdate();
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
         if (rb.velocity.y != 0)
         {

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--Tiled2Unity generated xml data-->
 <!--Do not modify by hand-->
-<!--Last exported: 08/03/2017 00:28:11-->
+<!--Last exported: 09/03/2017 15:24:12-->
 <Tiled2Unity version="1.0.9.7">
   <AssignMaterial mesh="mesh_0001" material="level3tiles" />
   <AssignMaterial mesh="mesh_0002" material="level3border" />
@@ -39,16 +39,52 @@
     </GameObject>
     <GameObject name="Platform" x="0" y="0" z="0">
       <ObjectLayer offsetX="0" offsetY="0" color="#ff808080" />
-      <GameObject name="PolylineObject" x="240" y="-48" rotation="0" layer="">
-        <PolylineObjectComponent tmx-object-id="29" tmx-object-name="" tmx-object-type="" tmx-object-x="240" tmx-object-y="48" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+      <GameObject name="PolylineObject" x="240" y="-64" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="54" tmx-object-name="" tmx-object-type="" tmx-object-x="240" tmx-object-y="64" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
         <EdgeCollider2D>
-          <Points>0,0 96,0 96,-144 -16,-144 -16,-128 80,-128 80,-80 -16,-80 -16,-64 80,-64 80,-16 0,-16 0,0</Points>
+          <Points>0,0 0,16 96,16 96,-128</Points>
         </EdgeCollider2D>
       </GameObject>
-      <GameObject name="PolylineObject" x="160" y="-48" rotation="0" layer="">
-        <PolylineObjectComponent tmx-object-id="30" tmx-object-name="" tmx-object-type="" tmx-object-x="160" tmx-object-y="48" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+      <GameObject name="PolylineObject" x="160" y="-64" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="57" tmx-object-name="" tmx-object-type="" tmx-object-x="160" tmx-object-y="64" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
         <EdgeCollider2D>
-          <Points>0,0 0,-16 -80,-16 -80,-64 16,-64 16,-80 -80,-80 -80,-128 16,-128 16,-144 -96,-144 -96,0 0,0</Points>
+          <Points>0,0 0,16 -96,16 -96,-128</Points>
+        </EdgeCollider2D>
+      </GameObject>
+      <GameObject name="PolylineObject" x="176" y="-128" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="62" tmx-object-name="" tmx-object-type="" tmx-object-x="176" tmx-object-y="128" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+        <EdgeCollider2D>
+          <Points>0,0 0,16 -80,16</Points>
+        </EdgeCollider2D>
+      </GameObject>
+      <GameObject name="PolylineObject" x="224" y="-128" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="65" tmx-object-name="" tmx-object-type="" tmx-object-x="224" tmx-object-y="128" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+        <EdgeCollider2D>
+          <Points>0,0 0,16 80,16</Points>
+        </EdgeCollider2D>
+      </GameObject>
+      <GameObject name="PolylineObject" x="320" y="-176" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="66" tmx-object-name="" tmx-object-type="" tmx-object-x="320" tmx-object-y="176" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+        <EdgeCollider2D>
+          <Points>0,0 0,64 0,128</Points>
+        </EdgeCollider2D>
+      </GameObject>
+      <GameObject name="PolylineObject" x="80" y="-176" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="68" tmx-object-name="" tmx-object-type="" tmx-object-x="80" tmx-object-y="176" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+        <EdgeCollider2D>
+          <Points>0,0 0,64 0,128</Points>
+        </EdgeCollider2D>
+      </GameObject>
+      <GameObject name="PolylineObject" x="176" y="-192" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="63" tmx-object-name="" tmx-object-type="" tmx-object-x="176" tmx-object-y="192" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+        <EdgeCollider2D>
+          <Points>0,0 0,16 -80,16</Points>
+        </EdgeCollider2D>
+      </GameObject>
+      <GameObject name="PolylineObject" x="224" y="-192" rotation="0" layer="">
+        <PolylineObjectComponent tmx-object-id="64" tmx-object-name="" tmx-object-type="" tmx-object-x="224" tmx-object-y="192" tmx-object-width="0" tmx-object-height="0" tmx-object-rotation="0" />
+        <EdgeCollider2D>
+          <Points>0,0 0,16 80,16</Points>
         </EdgeCollider2D>
       </GameObject>
       <GameObject name="RectangleObject" x="32" y="-240" rotation="0" layer="">
