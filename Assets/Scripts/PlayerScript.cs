@@ -8,18 +8,21 @@ public class PlayerScript : MonoBehaviour {
     private Animator animator;
     Rigidbody2D rb;
     public GameObject bubble;
-    public float bubbleRate = 2.0f;
+    public float bubbleRate = 0.2f;
     private float bubbleCooldown = 0.0f;
+    private float jumpCooldown = 0.0f;
     private bool isdead = false;
     private float deadtime = 0.0f;
     private float reviveCooldown = 5.0f;
     private Vector3 startingPosition;
+    float distToGround;
 
     public GameObject pad;
     private PadScript padScript;
 
 	// Use this for initialization
 	void Start () {
+        distToGround = GetComponent<Collider2D>().bounds.extents.y;
         direction = Vector3.right;
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
@@ -73,9 +76,13 @@ public class PlayerScript : MonoBehaviour {
         {
             DoBubble();
         }
-        if (bubbleCooldown >=0)
+        if (bubbleCooldown >= 0)
         {
             bubbleCooldown -= Time.deltaTime;
+        }
+        if (jumpCooldown >= 0)
+        {
+            jumpCooldown -= Time.deltaTime;
         }
         if (rb.velocity.y != 0)
         {
@@ -123,8 +130,9 @@ public class PlayerScript : MonoBehaviour {
 
     public void DoJump()
     {
-        if (rb.velocity.y == 0)
+        if (rb.velocity.y == 0 && jumpCooldown <= 0)
         {
+            jumpCooldown = 0.2f;
             rb.AddForce(new Vector2(0, jumpForce));
         }
     }
@@ -168,4 +176,5 @@ public class PlayerScript : MonoBehaviour {
             animator.gameObject.SetActive(true);
         }
     }
+
 }

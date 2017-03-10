@@ -3,22 +3,17 @@ using System.Collections;
 
 public class EnemyScript : MonoBehaviour {
     private static readonly object _syncRoot = new Object();
-
+    protected Animator animator;
     public GameObject bubbled;
     public float speed = 3.0f;
     public Vector3 direction = Vector3.left;
     // Use this for initialization
-    void Start()
+    protected void Start()
     {
-        if (direction == Vector3.right)
-        {
-            Vector3 scale = transform.localScale;
-            scale.x *= -1;
-            transform.localScale = scale;
-        }
+        animator = GetComponent<Animator>();
     }
 
-    public void FixedUpdate () {
+    protected void FixedUpdate () {
         Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
         if (GetComponent<Rigidbody2D>().velocity.y < -2)
         {

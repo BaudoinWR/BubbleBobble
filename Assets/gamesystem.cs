@@ -26,6 +26,10 @@ public class gamesystem : MonoBehaviour {
         {
             print("reload");
             currentLevel = (currentLevel + 1) % UnityEngine.SceneManagement.SceneManager.sceneCountInBuildSettings;
+            if (currentLevel == 0)
+            {
+                currentLevel++;
+            }
             UnityEngine.SceneManagement.SceneManager.LoadScene(currentLevel);
 
         }
