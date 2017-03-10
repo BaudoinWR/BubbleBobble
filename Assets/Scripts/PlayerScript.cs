@@ -24,7 +24,14 @@ public class PlayerScript : MonoBehaviour {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         pad = GameObject.Find("Pad");
-        padScript = pad.GetComponent<PadScript>();
+        if (pad == null)
+        {
+            padScript = new PadScript();
+        } else
+        {
+            padScript = pad.GetComponent<PadScript>();
+        }
+        
         startingPosition = transform.position;
     }
 	

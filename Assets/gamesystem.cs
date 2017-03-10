@@ -5,15 +5,15 @@ public class gamesystem : MonoBehaviour {
     public AudioSource source;
     public GameObject pad;
 
-    public string[] levels = { "Level1.1", "Level2", "Level3" };
-    int currentLevel = 0;
+    //public string[] levels = { "Level1.1", "Level2", "Level3", "Level4", "Level5" };
+    int currentLevel = 1;
 	// Use this for initialization
     void Start () {
         DontDestroyOnLoad(gameObject);
         DontDestroyOnLoad(source);
         DontDestroyOnLoad(pad);
-        UnityEngine.SceneManagement.SceneManager.LoadScene(levels[0]);
-        UnityEngine.SceneManagement.SceneManager.LoadScene(levels[levels.Length-1]);
+        UnityEngine.SceneManagement.SceneManager.LoadScene(currentLevel);
+        //UnityEngine.SceneManagement.SceneManager.LoadScene(levels[levels.Length-1]);
         source.mute = false;
         source.Play();
 
@@ -25,8 +25,8 @@ public class gamesystem : MonoBehaviour {
             && GameObject.FindGameObjectsWithTag("EnemyBubbleTag").Length == 0)
         {
             print("reload");
-            currentLevel = (currentLevel + 1) % levels.Length;
-            UnityEngine.SceneManagement.SceneManager.LoadScene(levels[currentLevel]);
+            currentLevel = (currentLevel + 1) % UnityEngine.SceneManagement.SceneManager.sceneCountInBuildSettings;
+            UnityEngine.SceneManagement.SceneManager.LoadScene(currentLevel);
 
         }
     }
