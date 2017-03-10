@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scripts\BubbleScript.cs" />
     <Compile Include="Assets\Scripts\BurstingScript.cs" />
     <Compile Include="Assets\Scripts\EnemyScript.cs" />
+    <Compile Include="Assets\Scripts\MightaScript.cs" />
     <Compile Include="Assets\Scripts\PadScript.cs" />
     <Compile Include="Assets\Scripts\PassPlatforms.cs" />
     <Compile Include="Assets\Scripts\PlayerScript.cs" />
@@ -110,6 +111,7 @@
     <None Include="Assets\Tiled2Unity\Imported\level3.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\level4.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\level5.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\level6.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\License.txt" />
     <None Include="Assets\Tiled2Unity\Materials\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Meshes\_ReadMe.txt" />
